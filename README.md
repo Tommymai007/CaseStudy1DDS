@@ -13,9 +13,6 @@ Develop a predictive model for employee attrition with minimum 60% sensitivity a
 Provide actionable insights to support data-driven talent management decisions
 
 ### Scope of Analysis:
-
-The analysis encompasses:
-
 Exploratory data analysis of employee attributes
 Statistical validation of identified factors
 Development of predictive models
@@ -26,12 +23,10 @@ Recommendations based on findings
 This analysis is conducted entirely in R, utilizing R Markdown for reproducible research. The project structure includes:
 
 R Markdown Files:
-
 Main analysis and documentation (CaseStudy1.Rmd)
 Generated HTML output with interactive visualizations
 
 Data Files:
-
 Primary dataset: CaseStudy1-data.csv
 Competition dataset: CaseStudy1CompSet No Attrition.csv
 Predictions file: Case1PredictionsXXXX Attrition.csv
