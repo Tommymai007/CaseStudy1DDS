@@ -1,5 +1,7 @@
 # CaseStudy1DDS
 
+Link to Youtube Video: https://youtu.be/9dso_56m03M 
+
 ## Employee Attrition Analysis for DDSAnalytics
 ### Introduction
 
